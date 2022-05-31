@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350979969757",
+    "project_id": "bikerhelper-c5ffd",
+    "storage_bucket": "bikerhelper-c5ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350979969757:android:c39d633c98000e69194134",
+        "android_client_info": {
+          "package_name": "com.example.bikerhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350979969757-368h3fbm09sr8ajpgt0kc8prre0riiep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhb15Z7Qv39DCONWVTDXcIltdvStkjW-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350979969757-368h3fbm09sr8ajpgt0kc8prre0riiep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
