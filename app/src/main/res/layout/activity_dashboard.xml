@@ -35,8 +35,8 @@
             app:layout_constraintTop_toBottomOf="@id/toolbar">
 
             <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="150dp"
+                android:layout_width="match_parent"
+                android:layout_height="157dp"
                 android:layout_gravity="center_vertical"
                 android:layout_marginBottom="190dp"
                 android:src="@drawable/logo_round"
@@ -57,7 +57,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="190dp"
-                android:text="MOTORRIDE "
+                android:text="BIKERHELPER "
                 android:textAlignment="center"
                 android:textColor="@color/colorPrimaryDark"
                 android:gravity="center_horizontal"
