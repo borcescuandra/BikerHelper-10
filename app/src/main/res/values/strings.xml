@@ -7,6 +7,19 @@
     <string name="logIn">Log In</string>
     <string name="createAccount">Create New Account</string>
 
+
+    //map
+    <string name="title_activity_maps">BikerHelper</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
+    <string name="zoom">15f</string>
+    //
+
     <string name="signUp">Sign Up</string>
     <string name="backBtn">Back</string>
 
@@ -14,6 +27,7 @@
 
     <string name="startRoute">START ROUTE</string>
     <string name="stopRoute">STOP ROUTE</string>
+    <string name="API_KEY">AIzaSyBQzg8i7-0nHWWIFxu239wKVdKVxjTC3WM</string>
 
     <string name="ok_button">OK</string>
 
@@ -24,6 +38,7 @@
     <string name="terms">Terms and Conditions</string>
 
     <string name="aboutUs">
+
 
     </string>
 

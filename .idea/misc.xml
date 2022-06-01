@@ -6,19 +6,25 @@
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/drawable/background_button.xml" value="0.1935" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/drawable/background_fields.xml" value="0.1935" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/drawable/background_fragment.xml" value="0.1935" />
+        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/drawable/select_level.xml" value="0.207" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_about_us.xml" value="0.3625" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_maps.xml" value="0.264" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_overview_info.xml" value="0.3625" />
-        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_record.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_record.xml" value="0.264" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_recording.xml" value="0.3625" />
-        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_sign_up.xml" value="0.3625" />
+        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_splash.xml" value="0.3614583333333333" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_terms_conditions.xml" value="0.3625" />
+        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_tilt_angle.xml" value="0.264" />
+        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/activity_view_map.xml" value="0.3625" />
+        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/fragment_maps.xml" value="0.3625" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/navigationview_header.xml" value="0.3614583333333333" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/overview_information.xml" value="0.18541666666666667" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/layout/recyclerview_item.xml" value="0.3614583333333333" />
         <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/menu/drawer_items.xml" value="0.3625" />
+        <entry key="..\:/Users/Andra/AndroidStudioProjects/BikerHelper/app/src/main/res/menu/map_options.xml" value="0.3625" />
       </map>
     </option>
   </component>

@@ -26,7 +26,7 @@ class DashboardActivity : AppCompatActivity(), NavigationView.OnNavigationItemSe
         locationViewModel.deleteAll()
 
         StartRouteBtn?.setOnClickListener {
-            startActivity(Intent(this, RecordingActivity::class.java))
+            startActivity(Intent(this, MapsActivity::class.java))
             finish()
         }
 
@@ -53,6 +53,12 @@ class DashboardActivity : AppCompatActivity(), NavigationView.OnNavigationItemSe
             }
             R.id.navTerms->{
                 startActivity(Intent(this,TermsConditionsActivity::class.java))
+            }
+            R.id.tiltangle->{
+                startActivity(Intent(this, TiltAngleActivity::class.java))
+            }
+            R.id.mapsOption->{
+                startActivity(Intent(this, MapsActivity::class.java))
             }
         }
         mDrawerLayout.closeDrawer(GravityCompat.START)

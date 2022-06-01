@@ -8,14 +8,18 @@
             android:id="@+id/navNewAccount"
             android:title="@string/createAccount" />
 
-        <!--        <item-->
-        <!--            android:id="@+id/navRoutes"-->
-        <!--            android:title="@string/routes" />-->
         <item
             android:id="@+id/navAbout"
             android:title="@string/about" />
         <item
             android:id="@+id/navTerms"
             android:title="@string/terms" />
+        <item
+            android:id="@+id/tiltangle"
+            android:title="Tilt angle" />
+
+        <item
+            android:id="@+id/mapsOption"
+            android:title="Maps" />
     </group>
 </menu>
